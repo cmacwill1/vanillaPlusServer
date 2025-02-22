@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "b3ecf4b7259cd3239383d5740541c37d82f467d1e4ae74657d21cdd94b8e6a28"
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
